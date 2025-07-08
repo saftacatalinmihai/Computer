@@ -1,0 +1,168 @@
+.pythonlibs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+dist/
+*.spec
+
+# Installer logs
+eggs/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.pytest_cache/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff
+*.log
+
+# Scrapy stuff
+.scrapy
+
+# Sphinx documentation
+_docs/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# envtest
+.env
+db.sqlite3
+
+# Environments
+env/
+venv/
+ENV/
+bin/
+include/
+lib/
+pyvenv.cfg
+
+# mypy
+.mypy_cache/
+.dmypy.json
+fake-pkg/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+.env/
+
+# Environments
+env/
+venv/
+ENV/
+
+# mkdocs
+site/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Celery stuffs
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+.sage.py
+
+# dotenv
+.env
+.env.*
+!.env.example
+
+# virtualenv
+pip-selfcheck.json
+
+# Spyder project settings
+.spyderproject
+.spyproject/
+
+# Rope project settings
+.ropeproject
+
+# Credentials and secrets
+*credentials*
+*secret*
+*token*
+*password*
+*api_key*
+!*example*
+!*sample*
+
+# Local database files
+local.db
+*.sqlite3
+
+# Logs directory
+logs/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+.env_source
+blog.md
