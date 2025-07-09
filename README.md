@@ -2,6 +2,9 @@
 
 A powerful, extensible AI assistant that can modify its own code, add new capabilities, and adapt to user needs in real-time.
 
+## ⚠️ Disclaimer
+This project is currently an **experiment** and is not intended for production use. It is provided "as is," without warranty of any kind, express or implied. Use at your own risk.
+
 ## 🌟 Features
 
 - **Self-Modifying Code**: The assistant can analyze and update its own source code
